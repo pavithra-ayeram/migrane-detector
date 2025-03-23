@@ -1,0 +1,401 @@
+Age,Duration,Frequency,Location,Character,Intensity,Nausea,Vomit,Phonophobia,Photophobia,Visual,Sensory,Dysphasia,Dysarthria,Vertigo,Tinnitus,Hypoacusis,Diplopia,Defect,Ataxia,Conscience,Paresthesia,DPF,Type
+30,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+50,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,1,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+53,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+45,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+53,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,4,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+49,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+27,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Not,Basilar-type aura
+24,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+50,1,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+23,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+48,1,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,3,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+51,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+49,2,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+34,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+53,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+40,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,4,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+56,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+44,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+20,3,8,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+46,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+25,3,7,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+38,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+35,2,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+17,1,6,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+36,2,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+31,1,7,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+67,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+17,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+46,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+51,3,7,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+17,3,6,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+22,3,6,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+48,2,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+22,2,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+68,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+43,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+17,2,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+34,2,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+41,3,7,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+37,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+26,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+24,1,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+50,2,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+31,2,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+36,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+54,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+27,2,6,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+38,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+35,1,6,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+22,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+16,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+38,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+33,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+40,2,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+22,2,7,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+35,2,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+17,3,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+35,1,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+41,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+70,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Migraine without aura
+17,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+28,3,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+29,1,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+54,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+40,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+46,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+69,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+33,2,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+50,3,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+17,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+16,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+31,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,1,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+16,2,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+16,3,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+49,1,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+41,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+33,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,0,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+64,1,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+27,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+27,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+48,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+32,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+24,2,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,1,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+50,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+52,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+35,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+43,2,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+51,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+28,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+22,3,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+47,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+44,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+49,2,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+43,1,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+43,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+16,2,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+21,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+25,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+39,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+38,1,4,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,1,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+43,3,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,3,5,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+28,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+57,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+58,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+28,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+27,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+42,1,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+39,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+23,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+77,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+47,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+48,3,3,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+52,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+42,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+18,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+25,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+45,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+17,1,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+29,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,1,5,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+32,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+50,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+35,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+57,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+30,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+45,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+18,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+45,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+48,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+21,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+43,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+25,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+46,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+42,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,3,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+16,1,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+34,1,1,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+20,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+37,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+51,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+31,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+59,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+54,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+34,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+46,3,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+31,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+30,1,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+26,1,4,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+44,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+26,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+44,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+29,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+54,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+44,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+18,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+58,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+24,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+50,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+36,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+47,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+51,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+21,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+40,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+46,1,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+25,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+51,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+56,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+18,2,5,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+37,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+50,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+49,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+55,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+29,2,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+18,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+41,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+54,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+31,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+49,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+18,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+38,1,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+48,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+26,3,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura with migraine
+19,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+25,2,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+27,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+16,2,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,1,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,2,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,2,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+31,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+29,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,2,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,0,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,1,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,2,4,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+15,2,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,1,3,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,2,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Not,Not,Typical aura with migraine
+19,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+15,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,3,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+47,1,5,Unilateral,Constant,Severe,Yes,Not,Not,Not,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Other
+21,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,0,0,Yes,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+35,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+28,1,1,Bilateral,Constant,Severe,Yes,Yes,Not,Not,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Other
+15,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+30,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Other
+32,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,1,4,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+38,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+35,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+15,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+16,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+22,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,,Not,Not,Typical aura with migraine
+43,3,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,2,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+34,2,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+41,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+37,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+24,3,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,4,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+21,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,0,0,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+38,2,1,,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Basilar-type aura
+35,1,1,None,None,None,Yes,Yes,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+22,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+16,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+38,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+33,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+40,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+41,2,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+31,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,1,Not,Not,Yes,Not,Yes,Not,Not,Not,Not,Not,Not,Basilar-type aura
+36,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+19,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+40,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+33,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+30,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,1,3,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,1,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+31,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+30,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+16,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+21,2,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+33,2,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+27,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+17,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+24,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,1,2,Unilateral,Throbbing,,Yes,Not,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+35,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+22,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+20,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+28,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+22,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+44,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+35,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+25,3,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+39,3,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+35,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+18,2,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+28,3,3,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+26,2,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Migraine without aura
+23,2,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura with migraine
+24,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Yes,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+19,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,0,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+23,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Yes,Not,Not,Yes,Not,Not,Not,Not,Yes,Not,Yes,Familial hemiplegic migraine
+25,1,2,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+21,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+17,2,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+23,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+18,2,5,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,0,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+20,3,5,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+17,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+15,1,1,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+24,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,0,1,Yes,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+21,1,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,1,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+23,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+25,1,2,Unilateral,Throbbing,Mild,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+17,3,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+25,2,2,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+27,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+20,2,2,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,2,0,Yes,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+28,1,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+22,2,1,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,3,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+21,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+24,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,2,Yes,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+19,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+23,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+19,1,2,Unilateral,Throbbing,Mild,Yes,Yes,Yes,Yes,3,2,Not,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+20,2,1,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,2,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+21,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Sporadic hemiplegic migraine
+19,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Yes,Not,Not,Yes,Not,Not,Not,Not,Yes,Not,Yes,Familial hemiplegic migraine
+20,2,2,Unilateral,Throbbing,Mild,Yes,Not,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+23,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+25,2,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,0,Yes,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+17,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,,Not,Not,Not,Not,Not,Not,Yes,Familial hemiplegic migraine
+24,1,1,None,None,None,Yes,Yes,Yes,Yes,4,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+21,1,5,None,None,None,Yes,Not,Yes,Yes,3,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+23,1,1,None,None,None,Yes,Yes,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+30,1,2,None,None,None,Yes,Not,Yes,Yes,3,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+27,3,1,None,None,None,Yes,Yes,Yes,Yes,3,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+25,2,5,None,None,None,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+17,1,1,None,None,None,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+20,3,5,None,None,None,Yes,Yes,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+19,3,5,None,None,None,Yes,Not,Yes,Yes,4,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+22,3,1,None,None,None,Yes,Not,Yes,Yes,3,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+26,1,1,None,None,None,Yes,Yes,Yes,Yes,4,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+24,1,1,None,None,None,Yes,Not,Yes,Yes,3,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+50,1,5,None,None,None,Yes,Yes,Yes,Yes,3,2,Not,Not,Yes,,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+23,1,1,None,None,None,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+35,1,2,None,None,None,Yes,Not,Yes,Yes,4,2,Not,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+24,3,1,None,None,None,Yes,Not,Yes,Yes,3,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+33,2,5,None,None,None,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+34,1,1,None,None,None,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Typical aura without migraine
+20,3,5,None,None,None,Not,Not,Yes,Yes,4,1,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Typical aura without migraine
+53,3,5,Bilateral,Constant,Severe,Yes,Not,Not,Not,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+40,3,1,Unilateral,Throbbing,Severe,Not,Not,Yes,Not,3,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+30,1,1,Bilateral,Constant,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Yes,Other
+24,1,1,Unilateral,Throbbing,Severe,Not,Not,Not,Not,1,2,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+20,1,4,Bilateral,Constant,Severe,Yes,Yes,,Yes,1,2,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Other
+23,1,1,Unilateral,Constant,Severe,Yes,Yes,Not,Not,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Other
+48,1,2,Bilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,3,2,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Other
+51,3,1,Unilateral,Throbbing,Severe,Not,Not,Yes,Yes,0,1,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Other
+49,2,2,Bilateral,Constant,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+34,1,1,Unilateral,Throbbing,Severe,Yes,Not,Not,Yes,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Not,Not,Other
+20,3,1,Bilateral,Constant,Severe,Not,Not,Yes,Not,0,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+53,3,1,Bilateral,Constant,Severe,Yes,Not,Not,,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Not,,Yes,Other
+40,3,1,Unilateral,Constant,Severe,Yes,Not,Not,Not,2,0,Not,Not,,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+56,1,1,Bilateral,Constant,Severe,Yes,Yes,Not,Yes,2,0,Not,Not,Not,Not,Not,Not,Not,Not,Not,Not,Yes,Other
+24,1,1,Unilateral,Throbbing,Medium,Yes,Not,Yes,Yes,2,1,Not,Not,Yes,Yes,Yes,Not,Not,Not,Not,Not,Yes,Basilar-type aura
+38,1,2,Unilateral,Throbbing,Medium,Yes,Yes,Yes,Yes,2,1,Not,Not,Yes,Yes,Yes,Not,Not,Not,Not,Not,Yes,Basilar-type aura
+23,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,2,0,Not,Not,Yes,Not,Not,Not,Yes,Not,Yes,Not,Not,Basilar-type aura
+48,1,2,,Throbbing,Severe,Yes,Yes,Yes,Yes,3,1,,Not,Yes,Not,Not,Not,,,Not,Yes,Not,Basilar-type aura
+27,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,,Yes,Not,Not,Not,Not,Not,Not,Yes,Yes,Basilar-type aura
+40,2,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,0,Not,Not,Not,Yes,Not,Not,Not,Not,Yes,Not,Yes,Basilar-type aura
+34,1,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Not,Yes,Not,Yes,Not,Yes,Not,Not,Basilar-type aura
+20,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Not,Yes,Basilar-type aura
+36,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Yes,Not,Not,Yes,Yes,Not,Not,Not,Yes,Basilar-type aura
+38,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,4,0,Not,Not,Yes,Not,Not,Not,Yes,Not,Not,Not,Yes,Basilar-type aura
+39,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,,1,1,Not,Not,Yes,Not,Not,Yes,Not,,Not,Not,Yes,Basilar-type aura
+20,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,2,0,Not,Not,Not,Yes,Yes,Not,Not,Not,Not,Not,Yes,Basilar-type aura
+28,3,2,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,1,0,Not,Not,Yes,Not,Not,Not,Yes,Not,Not,Not,Yes,Basilar-type aura
+20,3,1,Unilateral,Throbbing,Severe,Yes,Not,Yes,Yes,3,1,Not,Not,Yes,Not,Not,Not,Not,Not,Not,Yes,Yes,Basilar-type aura
+37,1,1,Unilateral,Throbbing,Severe,Yes,Yes,Yes,Yes,1,0,Not,Not,Yes,Not,Not,Not,Not,Not,Yes,Not,Yes,Basilar-type aura
